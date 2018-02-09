@@ -1,5 +1,5 @@
 ---
-title: "Final Project draft - Part 1: Classification"
+
 author: "Jacob Walsh"
 date: "December 4, 2016"
 output: word_document
